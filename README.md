@@ -25,8 +25,8 @@ The school board has requested the following deliverables:
 
 
 ## Resources
- - [schools_complete.csv](https://github.com/acfthomson/School_District_Analysis/blob/main/schools_complete.csv)
- - [students_complete.csv](https://github.com/acfthomson/School_District_Analysis/blob/main/students_complete.csv)
+ - [schools_complete.csv](https://github.com/acfthomson/School_District_Analysis/tree/main/Resources/schools_complete.csv)
+ - [students_complete.csv](https://github.com/acfthomson/School_District_Analysis/tree/main/Resources/students_complete.csv)
  
  
  ## Results
