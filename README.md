@@ -30,7 +30,19 @@ The school board has requested the following deliverables:
  
  
  ## Results
- Using bulleted lists and images of DataFrames as support, address the following questions.
+District Summary
+
+![](Resources/New_District_Summary.png)
+
+
+
+
+
+
+
+
+
+
     How is the district summary affected?
     How is the school summary affected?
     How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
