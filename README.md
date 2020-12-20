@@ -150,7 +150,7 @@ Thomas High School affected school rankings in the following ways:
 Removing 9th grade student scores from Thomas High School affected other reports:
 - Math and reading scores by grade remained the same for all other schools
 - Thomas High School had no data to report for 9th grade math and reading scores
-- Scores by school spending chaged at the $630-644 range:
+- Scores by school spending chaged at the $601-650 range:
     - Percentage passing math dropped from 73% to 67%
     - Percentage passing reading dropped from 84% to 77%
     - Overall passing percentage dropped from 63% to 56%
