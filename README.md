@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-A school board hired a consulting firm to analyze student data because of suspected academic dishonesty.  [students_complete.csv](https://github.com/acfthomson/School_District_Analysis/blob/main/students_complete.csv) shows evidence of reading and math grade for Thomas High School ninth graders appears to have been altered.  The school board does not know the full extent of the academic dishonesty , and in order to uphold state testing standard, they have hired this firm for help.
+A school board hired a consulting firm to analyze student data because of suspected academic dishonesty.  [students_complete.csv](https://github.com/acfthomson/School_District_Analysis/blob/main/students_complete.csv) shows evidence of reading and math grades for Thomas High School ninth graders appears to have been altered.  The school board does not know the full extent of the academic dishonesty , and in order to uphold state testing standard, they have hired this firm for help.
 
 The analysis conducted compares previous school district analysis against this firm's analysis in order to determine how the suspected academic dishonesty affects school performance.
 
